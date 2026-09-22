@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="520" viewBox="0 0 620 520" role="img" aria-labelledby="t">
+  <title id="t">Mapa (link do cliente)</title>
+  <rect width="620" height="520" fill="#ffffff"/>
+  
+  <rect width="620" height="520" fill="#ffffff"/>
+  <g stroke="#f3edfa" stroke-width="22" stroke-linecap="round"><path d="M-20 150 H640"/><path d="M-20 330 H640"/><path d="M180 -20 V540"/><path d="M430 -20 V540"/></g>
+  <g stroke="#ffffff" stroke-width="4" stroke-dasharray="14 12" fill="none"><path d="M-20 150 H640"/><path d="M-20 330 H640"/><path d="M180 -20 V540"/><path d="M430 -20 V540"/></g>
+  <path d="M0 470 Q160 430 320 470 T640 460 V520 H0 Z" fill="#d6f1ff"/>
+  <g fill="#e9e2f2"><rect x="40" y="40" width="110" height="80" rx="12"/><rect x="220" y="200" width="160" height="90" rx="12"/><rect x="470" y="60" width="110" height="60" rx="12"/><rect x="60" y="360" width="90" height="70" rx="12"/></g>
+  <g transform="translate(150 190)"><path d="M0 0 C-24 0 -38 18 -38 38 C-38 66 0 94 0 94 C0 94 38 66 38 38 C38 18 24 0 0 0 Z" fill="#7d50a1"/><circle cx="0" cy="38" r="14" fill="#fde11e"/></g>
+  <text x="150" y="310" text-anchor="middle" font-family="Nunito, system-ui, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#2f2e2e">São Vicente</text>
+  <g transform="translate(470 250)"><path d="M0 0 C-24 0 -38 18 -38 38 C-38 66 0 94 0 94 C0 94 38 66 38 38 C38 18 24 0 0 0 Z" fill="#7d50a1"/><circle cx="0" cy="38" r="14" fill="#30bdff"/></g>
+  <text x="470" y="370" text-anchor="middle" font-family="Nunito, system-ui, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#2f2e2e">Praia Grande</text>
+  <rect x="387" y="472" width="215" height="30" rx="15" fill="#ffffff" opacity="0.94"/><text x="495" y="492" text-anchor="middle" font-family="Nunito, system-ui, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#7d50a1">Mapa (link do cliente)</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480" role="img" aria-labelledby="t">
+  <title id="t">Foto dos brinquedos (fornecer)</title>
+  <rect width="480" height="480" fill="#f3edfa"/>
+  
+  <rect x="0" y="330" width="480" height="150" fill="#e9e2f2"/>
+  <rect x="60" y="120" width="120" height="210" rx="16" fill="#7d50a1"/>
+  <path d="M180 150 q120 40 200 200" stroke="#fde11e" stroke-width="34" fill="none" stroke-linecap="round"/>
+  <rect x="60" y="100" width="120" height="30" rx="10" fill="#ee1b24"/>
+  <rect x="250" y="330" width="190" height="90" rx="18" fill="#d6f1ff"/>
+  <g><circle cx="280" cy="370" r="12" fill="#ee1b24"/><circle cx="310" cy="390" r="12" fill="#fde11e"/><circle cx="345" cy="368" r="12" fill="#30bdff"/><circle cx="380" cy="392" r="12" fill="#7d50a1"/><circle cx="410" cy="372" r="12" fill="#fde11e"/><circle cx="330" cy="405" r="10" fill="#30bdff"/></g>
+  <g stroke="#ffffff" stroke-width="6" opacity="0.7"><path d="M80 170 h80 M80 210 h80 M80 250 h80"/></g>
+  <rect x="180" y="432" width="282" height="30" rx="15" fill="#ffffff" opacity="0.94"/><text x="321" y="452" text-anchor="middle" font-family="Nunito, system-ui, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#7d50a1">Foto dos brinquedos (fornecer)</text>
+</svg>

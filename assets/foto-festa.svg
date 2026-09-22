@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="520" viewBox="0 0 620 520" role="img" aria-labelledby="t">
+  <title id="t">Foto da festa (fornecer)</title>
+  <rect width="620" height="520" fill="#ffffff"/>
+  
+  <rect x="0" y="322" width="620" height="198" fill="#e9e2f2"/>
+  <path d="M0 36 H620" stroke="#2f2e2e" stroke-width="2" opacity="0.4"/><path d="M0 36 l23 34 l23 -34 z" fill="#fde11e"/><path d="M46 36 l23 34 l23 -34 z" fill="#30bdff"/><path d="M92 36 l23 34 l23 -34 z" fill="#ee1b24"/><path d="M138 36 l23 34 l23 -34 z" fill="#7d50a1"/><path d="M184 36 l23 34 l23 -34 z" fill="#fde11e"/><path d="M230 36 l23 34 l23 -34 z" fill="#30bdff"/><path d="M276 36 l23 34 l23 -34 z" fill="#ee1b24"/><path d="M322 36 l23 34 l23 -34 z" fill="#7d50a1"/><path d="M368 36 l23 34 l23 -34 z" fill="#fde11e"/><path d="M414 36 l23 34 l23 -34 z" fill="#30bdff"/><path d="M460 36 l23 34 l23 -34 z" fill="#ee1b24"/><path d="M506 36 l23 34 l23 -34 z" fill="#7d50a1"/><path d="M552 36 l23 34 l23 -34 z" fill="#fde11e"/><path d="M598 36 l23 34 l23 -34 z" fill="#30bdff"/>
+  <rect x="120" y="290" width="380" height="26" rx="8" fill="#d9c3a5"/>
+  <rect x="150" y="316" width="16" height="110" fill="#d9c3a5"/><rect x="454" y="316" width="16" height="110" fill="#d9c3a5"/>
+  <rect x="235" y="220" width="150" height="70" rx="10" fill="#ffffff"/>
+  <rect x="255" y="184" width="110" height="40" rx="8" fill="#d6f1ff"/>
+  <rect x="285" y="150" width="50" height="36" rx="6" fill="#fde11e"/>
+  <path d="M296 150 v-22 M310 150 v-26 M324 150 v-22" stroke="#ee1b24" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="296" cy="124" r="5" fill="#fde11e"/><circle cx="310" cy="120" r="5" fill="#fde11e"/><circle cx="324" cy="124" r="5" fill="#fde11e"/>
+  <circle cx="180" cy="270" r="20" fill="#ee1b24"/><circle cx="440" cy="270" r="20" fill="#30bdff"/>
+  <g transform="translate(90 150) scale(1.0)">
+    <ellipse cx="0" cy="0" rx="26" ry="32" fill="#fde11e"/>
+    <ellipse cx="40" cy="-14" rx="24" ry="30" fill="#30bdff"/>
+    <ellipse cx="22" cy="24" rx="24" ry="30" fill="#ee1b24"/>
+    <ellipse cx="-8" cy="-12" rx="6" ry="9" fill="#ffffff" opacity="0.5"/>
+    <path d="M0 32 q6 30 10 70 M40 16 q-4 32 -6 70 M22 54 q2 20 0 48" stroke="#2f2e2e" stroke-width="1.5" fill="none" opacity="0.5"/>
+  </g>
+  <g transform="translate(500 130) scale(0.9)">
+    <ellipse cx="0" cy="0" rx="26" ry="32" fill="#fde11e"/>
+    <ellipse cx="40" cy="-14" rx="24" ry="30" fill="#30bdff"/>
+    <ellipse cx="22" cy="24" rx="24" ry="30" fill="#ee1b24"/>
+    <ellipse cx="-8" cy="-12" rx="6" ry="9" fill="#ffffff" opacity="0.5"/>
+    <path d="M0 32 q6 30 10 70 M40 16 q-4 32 -6 70 M22 54 q2 20 0 48" stroke="#2f2e2e" stroke-width="1.5" fill="none" opacity="0.5"/>
+  </g>
+  <g fill="#7d50a1"><circle cx="70" cy="420" r="6"/><circle cx="560" cy="440" r="6"/><circle cx="330" cy="470" r="6"/></g>
+  <g fill="#fde11e"><circle cx="110" cy="460" r="5"/><circle cx="520" cy="480" r="5"/></g>
+  <rect x="370" y="472" width="232" height="30" rx="15" fill="#ffffff" opacity="0.94"/><text x="486" y="492" text-anchor="middle" font-family="Nunito, system-ui, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#7d50a1">Foto da festa (fornecer)</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="t">
+  <title id="t">Sua Marca: buffet infantil em São Vicente</title>
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <rect x="0" y="0" width="1200" height="630" fill="#7d50a1"/>
+  <circle cx="1040" cy="140" r="220" fill="#fde11e"/>
+  <circle cx="900" cy="520" r="160" fill="#30bdff"/>
+  <g transform="translate(980 300) scale(2.2)">
+    <ellipse cx="0" cy="0" rx="26" ry="32" fill="#fde11e"/>
+    <ellipse cx="40" cy="-14" rx="24" ry="30" fill="#30bdff"/>
+    <ellipse cx="22" cy="24" rx="24" ry="30" fill="#ee1b24"/>
+    <ellipse cx="-8" cy="-12" rx="6" ry="9" fill="#ffffff" opacity="0.5"/>
+    <path d="M0 32 q6 30 10 70 M40 16 q-4 32 -6 70 M22 54 q2 20 0 48" stroke="#2f2e2e" stroke-width="1.5" fill="none" opacity="0.5"/>
+  </g>
+  <text x="90" y="250" font-family="Fredoka, Nunito, system-ui, Segoe UI, Arial, sans-serif" font-size="86" font-weight="600" fill="#ffffff">Um mundo de brinquedos</text>
+  <text x="90" y="350" font-family="Fredoka, Nunito, system-ui, Segoe UI, Arial, sans-serif" font-size="86" font-weight="600" fill="#fde11e">para todas as idades</text>
+  <text x="90" y="440" font-family="Nunito, system-ui, Segoe UI, Arial, sans-serif" font-size="34" fill="#ffffff">Sua Marca: buffet kids e teens em São Vicente e Praia Grande</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="480" viewBox="0 0 760 480" role="img" aria-labelledby="t">
+  <title id="t">Foto do salão (fornecer)</title>
+  <rect width="760" height="480" fill="#f3edfa"/>
+  
+  <rect x="0" y="300" width="760" height="180" fill="#e9e2f2"/>
+  <path d="M0 30 H760" stroke="#2f2e2e" stroke-width="2" opacity="0.4"/><path d="M0 30 l23 34 l23 -34 z" fill="#7d50a1"/><path d="M46 30 l23 34 l23 -34 z" fill="#fde11e"/><path d="M92 30 l23 34 l23 -34 z" fill="#30bdff"/><path d="M138 30 l23 34 l23 -34 z" fill="#ee1b24"/><path d="M184 30 l23 34 l23 -34 z" fill="#7d50a1"/><path d="M230 30 l23 34 l23 -34 z" fill="#fde11e"/><path d="M276 30 l23 34 l23 -34 z" fill="#30bdff"/><path d="M322 30 l23 34 l23 -34 z" fill="#ee1b24"/><path d="M368 30 l23 34 l23 -34 z" fill="#7d50a1"/><path d="M414 30 l23 34 l23 -34 z" fill="#fde11e"/><path d="M460 30 l23 34 l23 -34 z" fill="#30bdff"/><path d="M506 30 l23 34 l23 -34 z" fill="#ee1b24"/><path d="M552 30 l23 34 l23 -34 z" fill="#7d50a1"/><path d="M598 30 l23 34 l23 -34 z" fill="#fde11e"/><path d="M644 30 l23 34 l23 -34 z" fill="#30bdff"/><path d="M690 30 l23 34 l23 -34 z" fill="#ee1b24"/><path d="M736 30 l23 34 l23 -34 z" fill="#7d50a1"/>
+  <g fill="#ffffff"><rect x="80" y="250" width="150" height="50" rx="10"/><rect x="305" y="250" width="150" height="50" rx="10"/><rect x="530" y="250" width="150" height="50" rx="10"/></g>
+  <g fill="#d9c3a5"><rect x="95" y="300" width="10" height="70"/><rect x="205" y="300" width="10" height="70"/><rect x="320" y="300" width="10" height="70"/><rect x="430" y="300" width="10" height="70"/><rect x="545" y="300" width="10" height="70"/><rect x="655" y="300" width="10" height="70"/></g>
+  <g fill="#30bdff"><circle cx="155" cy="232" r="16"/></g><g fill="#ee1b24"><circle cx="380" cy="232" r="16"/></g><g fill="#fde11e"><circle cx="605" cy="232" r="16"/></g>
+  <g transform="translate(700 120) scale(0.8)">
+    <ellipse cx="0" cy="0" rx="26" ry="32" fill="#fde11e"/>
+    <ellipse cx="40" cy="-14" rx="24" ry="30" fill="#30bdff"/>
+    <ellipse cx="22" cy="24" rx="24" ry="30" fill="#ee1b24"/>
+    <ellipse cx="-8" cy="-12" rx="6" ry="9" fill="#ffffff" opacity="0.5"/>
+    <path d="M0 32 q6 30 10 70 M40 16 q-4 32 -6 70 M22 54 q2 20 0 48" stroke="#2f2e2e" stroke-width="1.5" fill="none" opacity="0.5"/>
+  </g>
+  <g transform="translate(40 140) scale(0.8)">
+    <ellipse cx="0" cy="0" rx="26" ry="32" fill="#fde11e"/>
+    <ellipse cx="40" cy="-14" rx="24" ry="30" fill="#30bdff"/>
+    <ellipse cx="22" cy="24" rx="24" ry="30" fill="#ee1b24"/>
+    <ellipse cx="-8" cy="-12" rx="6" ry="9" fill="#ffffff" opacity="0.5"/>
+    <path d="M0 32 q6 30 10 70 M40 16 q-4 32 -6 70 M22 54 q2 20 0 48" stroke="#2f2e2e" stroke-width="1.5" fill="none" opacity="0.5"/>
+  </g>
+  <rect x="510" y="432" width="232" height="30" rx="15" fill="#ffffff" opacity="0.94"/><text x="626" y="452" text-anchor="middle" font-family="Nunito, system-ui, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#7d50a1">Foto do salão (fornecer)</text>
+</svg>

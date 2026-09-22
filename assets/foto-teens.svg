@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480" role="img" aria-labelledby="t">
+  <title id="t">Foto do espaço teens (fornecer)</title>
+  <rect width="480" height="480" fill="#5a3379"/>
+  
+  <rect width="480" height="480" fill="#5a3379"/>
+  <rect x="0" y="340" width="480" height="140" fill="#4a2a63"/>
+  <g opacity="0.9"><circle cx="90" cy="90" r="30" fill="#30bdff"/><circle cx="240" cy="60" r="22" fill="#ee1b24"/><circle cx="390" cy="100" r="34" fill="#fde11e"/></g>
+  <g stroke="#fde11e" stroke-width="3" opacity="0.6"><path d="M90 120 l60 220 M240 82 l0 258 M390 134 l-60 206"/></g>
+  <rect x="120" y="280" width="240" height="60" rx="16" fill="#6a3f8f"/>
+  <rect x="150" y="250" width="180" height="30" rx="10" fill="#30bdff"/>
+  <g fill="#ffffff" opacity="0.8"><circle cx="60" cy="400" r="5"/><circle cx="420" cy="420" r="5"/><circle cx="240" cy="440" r="4"/></g>
+  <rect x="172" y="432" width="290" height="30" rx="15" fill="#ffffff" opacity="0.94"/><text x="317" y="452" text-anchor="middle" font-family="Nunito, system-ui, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#7d50a1">Foto do espaço teens (fornecer)</text>
+</svg>
